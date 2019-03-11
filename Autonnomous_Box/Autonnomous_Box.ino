@@ -1,6 +1,7 @@
 #include <Joystick.h>
 
 /*
+ * Switch 1:
  *  1, btn1: 1
  *  2, btn2: 0
  *  3, btn3: 2
